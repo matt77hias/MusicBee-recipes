@@ -1,6 +1,6 @@
 # Set Subtitle
 
-## Enable the custom `Set Subtitle` tag
+## Create a custom `Set Subtitle` tag
 1. Go to `Edit` > `Edit Preferences`;
 2. Go to `Tags (1)` section;
 3. Go to `tag storage` subsection;
