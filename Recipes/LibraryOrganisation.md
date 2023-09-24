@@ -1,5 +1,14 @@
 # Library Organisation
 
+## Configure the `disc-track#` format
+1. Go to `Edit` > `Edit Preferences`;
+2. Go to `Tags (2)` section;
+3. Go to `tag handling` subsection;
+4. Go to `Configure Fields`;
+5. Go to `formatting` subsection;
+6. Set `disc-track# format` to `0` - `00`.
+
+## Configure the file naming
 1. Go to `Edit` > `Edit Preferences`;
 2. Go to `Library` section;
 3. Go to `music library` subsection;
