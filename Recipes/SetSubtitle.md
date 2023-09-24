@@ -15,7 +15,9 @@
 3. Go to `tag storage` subsection;
 4. Go to `Define New Tags`;
 5. Set `label` to `Sub-Header [Variable]`;
-6. Set `formula` to `$If(<Disc Count>>1,$IsNull(<Set Subtitle>,"• Disc "<Disc#>" •","• Disc "<Disc#>" • "<Set Subtitle>" •"),$IsNull(<Set Subtitle>,,"• "<Set Subtitle>" •"))`;
+6. Set `formula` to
+
+```$If(<Disc Count>>1,$IsNull(<Set Subtitle>,"• Disc "<Disc#>" •","• Disc "<Disc#>" • "<Set Subtitle>" •"),$IsNull(<Set Subtitle>,,"• "<Set Subtitle>" •"))```
 
 ## Use the virtual tag for the sub-grouping
 1. Set `Configure Layout` > `Main Panel` > `Album Covers`;
