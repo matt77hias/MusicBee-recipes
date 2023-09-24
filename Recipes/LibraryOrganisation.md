@@ -7,4 +7,6 @@
 5. Go to `Organization`;
 6. Set `move` to `music`, `on drive` `C:\`, `to folder` `D:\Users\Matthias\Music\Media\`;
 7. Set `move` to `music`, `on drive` `D:\`, `to folder` `D:\Users\Matthias\Music\Media\`;
-8. Set both `naming template`s to `$Group($Sort(<Album Artist>),1)\<Album Artist>\<Album>\$IsNull(<Disc-Track#>,,<Disc-Track#>" ")<Title>`.
+8. Set both `naming template`s to
+
+```$Group($Sort(<Album Artist>),1)\<Album Artist>\<Album>\$IsNull(<Disc-Track#>,,<Disc-Track#>" ")<Title>```
