@@ -1,2 +1,1 @@
-# MusicBee-recipes
-MusicBee Recipes
+# MusicBee Recipes
