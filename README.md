@@ -1,1 +1,1 @@
-# MusicBee Recipes
+# [MusicBee](https://www.getmusicbee.com/) Recipes
