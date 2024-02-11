@@ -18,4 +18,4 @@
 7. Set `move` to `music`, `on drive` `D:\`, `to folder` `D:\Users\Matthias\Music\Media\`;
 8. Set both `naming template`s to
 
-```$Group($Sort(<Album Artist>),1)\<Album Artist>\<Album>\$IsNull(<Disc-Track#>,,<Disc-Track#>" ")$Split(<Title>,:,1)```
+```$Group($Sort(<Album Artist>),1)\<Album Artist>\<Album>\$IsNull(<Disc-Track#>,,<Disc-Track#>" ")$If($Contains(<Title>,/),$Split(<Title>,:,1),<Title>)```
