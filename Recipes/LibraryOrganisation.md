@@ -8,6 +8,16 @@
 5. Go to `formatting` subsection;
 6. Set `disc-track# format` to `0` - `00`.
 
+## Configure the file naming char mapping
+1. Go to `Edit` > `Edit Preferences`;
+2. Go to `Library` section;
+3. Go to `music library` subsection;
+4. Enable `auto-organise media files`;
+5. Go to `Organization`;
+6. Got to `Filename Char Mapping`;
+7. Set `"` to no character;
+8. Set `:` to no character.
+
 ## Configure the file naming
 1. Go to `Edit` > `Edit Preferences`;
 2. Go to `Library` section;
