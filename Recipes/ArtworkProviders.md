@@ -9,8 +9,10 @@
 |----------------|
 | `iTunes Store` |
 | `fanart.com`   |
-| `bing`         |
 | `deezer.com`   |
+| `bing`         |
 
 * `iTunes Store` album artwork has typically a resolution of 1200x1200 px, and typically includes `Parental Advisory` labels;
 * `fanart.com` album artwork has typically a resolution of 1000x1000 px, and typically does not include `Parental Advisory` labels.
+* `deezer.com` album artwork has typically a resolution of 1000x1000 px, and typically does not include `Parental Advisory` labels.
+* `bing.com` album artwork has is very irregular.
